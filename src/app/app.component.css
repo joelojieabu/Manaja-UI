@@ -1,0 +1,9 @@
+.card{
+  word-wrap: normal;
+}
+.container{
+  margin-top: 20px;
+}
+.nav-link:hover{
+  cursor: pointer;
+}
